@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vocals-intro/static/css/main.bbdcc1f1.css",
+    "main.js": "/vocals-intro/static/js/main.24c8dff3.js",
+    "static/js/453.be5a1b6d.chunk.js": "/vocals-intro/static/js/453.be5a1b6d.chunk.js",
+    "static/media/banner.jpg": "/vocals-intro/static/media/banner.37cdf2b47bce3079097e.jpg",
+    "static/media/logo.svg": "/vocals-intro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vocals-intro/index.html",
+    "main.bbdcc1f1.css.map": "/vocals-intro/static/css/main.bbdcc1f1.css.map",
+    "main.24c8dff3.js.map": "/vocals-intro/static/js/main.24c8dff3.js.map",
+    "453.be5a1b6d.chunk.js.map": "/vocals-intro/static/js/453.be5a1b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbdcc1f1.css",
+    "static/js/main.24c8dff3.js"
+  ]
+}
